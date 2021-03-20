@@ -1,3 +1,3 @@
 # IDS-project
-School project made together with David Jahoda using Oracle SQL
-Made for subject IDS at FIT BUT.
+Školní projekt do předmětu IDS, vytvořený společně s Davidem Jahodou (xjahod05).
+Vytvořeno pro zadání č.50: Klub anonymních alkoholiků
